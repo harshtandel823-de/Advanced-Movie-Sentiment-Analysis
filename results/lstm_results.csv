@@ -1,0 +1,2 @@
+Model,Test_Accuracy,Negative_Precision,Negative_Recall,Negative_F1,Positive_Precision,Positive_Recall,Positive_F1,Test_Accuracy_Percent
+LSTM,0.75632,0.72,0.85,0.78,0.81,0.67,0.73,75.63

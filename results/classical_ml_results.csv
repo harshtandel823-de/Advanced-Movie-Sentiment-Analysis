@@ -1,0 +1,4 @@
+Model,Accuracy,Accuracy (%)
+Logistic Regression,0.89952,89.95
+Multinomial Naive Bayes,0.86832,86.83
+Linear SVM,0.89112,89.11

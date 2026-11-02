@@ -1,0 +1,2 @@
+Model,Test_Accuracy,Test_Accuracy_Percent,Negative_Precision,Negative_Recall,Negative_F1,Positive_Precision,Positive_Recall,Positive_F1
+DistilBERT,0.91024,91.024,0.9141,0.9056,0.9098,0.9065,0.9149,0.9107
